@@ -23,9 +23,7 @@ npx create-react-app my-app
 
 cd my-app
 
-# Install dependencies using npm
 
-npm install
 
 # Run the Application in server 
 
